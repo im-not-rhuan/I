@@ -1,3 +1,5 @@
+Aqui estarão meus trabalhos utilizados na disciplina de Sistemas Inteligentes.
+
 Dataset: Criaturas do Tibia.
 
 Foram extraídos dados do site tibiwiki.com.br de 32 criaturas.
